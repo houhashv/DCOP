@@ -1,6 +1,6 @@
 # DCOP
 4 incomplete algorithms to solve Distributed Constraint Optimasation problems:<br>
-DSA
-MGM
-DBA
+DSA<br>
+MGM<br>
+DBA<br>
 MGM2
